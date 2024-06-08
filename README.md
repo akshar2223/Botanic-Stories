@@ -50,10 +50,22 @@ This Django-based web application aims to provide a platform similar to Medium, 
 - Cookies for session management.
 
 ## Installation
-- Clone the repository.
-- Install dependencies using `pip install -r requirements.txt`.
-- Run migrations using `python manage.py migrate`.
-- Start the development server with `python manage.py runserver`.
+1. Clone the repository.
+    ```bash
+    git clone <repository-url>
+    ```
+2. Install dependencies using pip.
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Run migrations.
+    ```bash
+    python manage.py migrate
+    ```
+4. Start the development server.
+    ```bash
+    python manage.py runserver
+    ```
 
 ## Technologies Used
 - Django
