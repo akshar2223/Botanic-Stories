@@ -72,7 +72,11 @@ This Django-based web application aims to provide a platform similar to Medium, 
 - Python
 
 ## Contributors
-- [Your Name](link to your profile)
+- [Malhar Raval](link to your profile)
+- [Akshar Patel](link to your profile)
+- [Jivin Varghese Porthukaran](link to your profile)
+- [Harsh Sachala](link to your profile)
+- [Happy Mehta](link to your profile)
 
 ## License
 This project is licensed under the [Your License](link to license).
