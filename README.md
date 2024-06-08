@@ -70,10 +70,12 @@ This Django-based web application aims to provide a platform similar to Medium, 
 ## Technologies Used
 - Django
 - Python
+- HTML
+- CSS
 
 ## Contributors
 - [Malhar Raval](link to your profile)
-- [Akshar Patel](link to your profile)
+- [Akshar Patel](https://github.com/akshar2223)
 - [Jivin Varghese Porthukaran](link to your profile)
 - [Harsh Sachala](link to your profile)
 - [Happy Mehta](link to your profile)
