@@ -74,11 +74,11 @@ This Django-based web application aims to provide a platform similar to Medium, 
 - CSS
 
 ## Contributors
-- [Malhar Raval](link to your profile)
+- [Malhar Raval](https://github.com/malhxr)
 - [Akshar Patel](https://github.com/akshar2223)
-- [Jivin Varghese Porthukaran](link to your profile)
-- [Harsh Sachala](link to your profile)
+- [Jivin Varghese Porthukaran](https://github.com/JivinVarghese)
+- [Harsh Sachala](https://github.com/sachalah)
 - [Happy Mehta](link to your profile)
 
 ## License
-This project is licensed under the [Your License](link to license).
+This project is licensed under the Internet Applications and Processing.
