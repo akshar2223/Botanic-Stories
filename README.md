@@ -78,7 +78,7 @@ This Django-based web application aims to provide a platform similar to Medium, 
 - [Akshar Patel](https://github.com/akshar2223)
 - [Jivin Varghese Porthukaran](https://github.com/JivinVarghese)
 - [Harsh Sachala](https://github.com/sachalah)
-- [Happy Mehta](link to your profile)
+- [Happy Mehta](https://github.com/HappyMehta)
 
 ## License
 This project is licensed under the Internet Applications and Processing.
